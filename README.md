@@ -130,3 +130,6 @@ python notebooks/02_ml_pipeline.py
 ---
 
 *Built as a portfolio project to demonstrate full-stack data analytics capability.*
+
+<img width="2288" height="1588" alt="image" src="https://github.com/user-attachments/assets/b37fb5bb-6cb5-4217-b523-011c04c13072" />
+
