@@ -1,0 +1,401 @@
+pickup_zone_id,pickup_zone,zone_type,total_trips,total_revenue,avg_surge,avg_fare,surge_trips
+1,Brooklyn Heights,business,0,0.0,,,0
+1,Brooklyn Heights,entertainment,0,0.0,,,0
+1,Brooklyn Heights,residential,0,0.0,,,0
+1,Brooklyn Heights,transport,0,0.0,,,0
+1,Downtown Core,business,5013,174760.18,1.5679273887891483,34.861396369439454,2108
+1,Downtown Core,entertainment,0,0.0,,,0
+1,Downtown Core,residential,0,0.0,,,0
+1,Downtown Core,transport,0,0.0,,,0
+1,Financial District,business,0,0.0,,,0
+1,Financial District,entertainment,0,0.0,,,0
+1,Financial District,residential,0,0.0,,,0
+1,Financial District,transport,0,0.0,,,0
+1,Harlem,business,0,0.0,,,0
+1,Harlem,entertainment,0,0.0,,,0
+1,Harlem,residential,0,0.0,,,0
+1,Harlem,transport,0,0.0,,,0
+1,JFK Airport,business,0,0.0,,,0
+1,JFK Airport,entertainment,0,0.0,,,0
+1,JFK Airport,residential,0,0.0,,,0
+1,JFK Airport,transport,0,0.0,,,0
+1,LaGuardia Airport,business,0,0.0,,,0
+1,LaGuardia Airport,entertainment,0,0.0,,,0
+1,LaGuardia Airport,residential,0,0.0,,,0
+1,LaGuardia Airport,transport,0,0.0,,,0
+1,Midtown,business,0,0.0,,,0
+1,Midtown,entertainment,0,0.0,,,0
+1,Midtown,residential,0,0.0,,,0
+1,Midtown,transport,0,0.0,,,0
+1,Times Square,business,0,0.0,,,0
+1,Times Square,entertainment,0,0.0,,,0
+1,Times Square,residential,0,0.0,,,0
+1,Times Square,transport,0,0.0,,,0
+1,Upper East Side,business,0,0.0,,,0
+1,Upper East Side,entertainment,0,0.0,,,0
+1,Upper East Side,residential,0,0.0,,,0
+1,Upper East Side,transport,0,0.0,,,0
+1,Williamsburg,business,0,0.0,,,0
+1,Williamsburg,entertainment,0,0.0,,,0
+1,Williamsburg,residential,0,0.0,,,0
+1,Williamsburg,transport,0,0.0,,,0
+2,Brooklyn Heights,business,0,0.0,,,0
+2,Brooklyn Heights,entertainment,0,0.0,,,0
+2,Brooklyn Heights,residential,0,0.0,,,0
+2,Brooklyn Heights,transport,0,0.0,,,0
+2,Downtown Core,business,0,0.0,,,0
+2,Downtown Core,entertainment,0,0.0,,,0
+2,Downtown Core,residential,0,0.0,,,0
+2,Downtown Core,transport,0,0.0,,,0
+2,Financial District,business,0,0.0,,,0
+2,Financial District,entertainment,0,0.0,,,0
+2,Financial District,residential,0,0.0,,,0
+2,Financial District,transport,0,0.0,,,0
+2,Harlem,business,0,0.0,,,0
+2,Harlem,entertainment,0,0.0,,,0
+2,Harlem,residential,0,0.0,,,0
+2,Harlem,transport,0,0.0,,,0
+2,JFK Airport,business,0,0.0,,,0
+2,JFK Airport,entertainment,0,0.0,,,0
+2,JFK Airport,residential,0,0.0,,,0
+2,JFK Airport,transport,0,0.0,,,0
+2,LaGuardia Airport,business,0,0.0,,,0
+2,LaGuardia Airport,entertainment,0,0.0,,,0
+2,LaGuardia Airport,residential,0,0.0,,,0
+2,LaGuardia Airport,transport,0,0.0,,,0
+2,Midtown,business,4975,176002.16,1.5792361809045226,35.377318592964826,2117
+2,Midtown,entertainment,0,0.0,,,0
+2,Midtown,residential,0,0.0,,,0
+2,Midtown,transport,0,0.0,,,0
+2,Times Square,business,0,0.0,,,0
+2,Times Square,entertainment,0,0.0,,,0
+2,Times Square,residential,0,0.0,,,0
+2,Times Square,transport,0,0.0,,,0
+2,Upper East Side,business,0,0.0,,,0
+2,Upper East Side,entertainment,0,0.0,,,0
+2,Upper East Side,residential,0,0.0,,,0
+2,Upper East Side,transport,0,0.0,,,0
+2,Williamsburg,business,0,0.0,,,0
+2,Williamsburg,entertainment,0,0.0,,,0
+2,Williamsburg,residential,0,0.0,,,0
+2,Williamsburg,transport,0,0.0,,,0
+3,Brooklyn Heights,business,0,0.0,,,0
+3,Brooklyn Heights,entertainment,0,0.0,,,0
+3,Brooklyn Heights,residential,0,0.0,,,0
+3,Brooklyn Heights,transport,0,0.0,,,0
+3,Downtown Core,business,0,0.0,,,0
+3,Downtown Core,entertainment,0,0.0,,,0
+3,Downtown Core,residential,0,0.0,,,0
+3,Downtown Core,transport,0,0.0,,,0
+3,Financial District,business,0,0.0,,,0
+3,Financial District,entertainment,0,0.0,,,0
+3,Financial District,residential,0,0.0,,,0
+3,Financial District,transport,0,0.0,,,0
+3,Harlem,business,0,0.0,,,0
+3,Harlem,entertainment,0,0.0,,,0
+3,Harlem,residential,0,0.0,,,0
+3,Harlem,transport,0,0.0,,,0
+3,JFK Airport,business,0,0.0,,,0
+3,JFK Airport,entertainment,0,0.0,,,0
+3,JFK Airport,residential,0,0.0,,,0
+3,JFK Airport,transport,0,0.0,,,0
+3,LaGuardia Airport,business,0,0.0,,,0
+3,LaGuardia Airport,entertainment,0,0.0,,,0
+3,LaGuardia Airport,residential,0,0.0,,,0
+3,LaGuardia Airport,transport,0,0.0,,,0
+3,Midtown,business,0,0.0,,,0
+3,Midtown,entertainment,0,0.0,,,0
+3,Midtown,residential,0,0.0,,,0
+3,Midtown,transport,0,0.0,,,0
+3,Times Square,business,0,0.0,,,0
+3,Times Square,entertainment,0,0.0,,,0
+3,Times Square,residential,0,0.0,,,0
+3,Times Square,transport,0,0.0,,,0
+3,Upper East Side,business,0,0.0,,,0
+3,Upper East Side,entertainment,0,0.0,,,0
+3,Upper East Side,residential,5131,141557.36,1.2190099395829272,27.58864938608458,829
+3,Upper East Side,transport,0,0.0,,,0
+3,Williamsburg,business,0,0.0,,,0
+3,Williamsburg,entertainment,0,0.0,,,0
+3,Williamsburg,residential,0,0.0,,,0
+3,Williamsburg,transport,0,0.0,,,0
+4,Brooklyn Heights,business,0,0.0,,,0
+4,Brooklyn Heights,entertainment,0,0.0,,,0
+4,Brooklyn Heights,residential,4967,135394.05,1.213249446345883,27.258717535735855,767
+4,Brooklyn Heights,transport,0,0.0,,,0
+4,Downtown Core,business,0,0.0,,,0
+4,Downtown Core,entertainment,0,0.0,,,0
+4,Downtown Core,residential,0,0.0,,,0
+4,Downtown Core,transport,0,0.0,,,0
+4,Financial District,business,0,0.0,,,0
+4,Financial District,entertainment,0,0.0,,,0
+4,Financial District,residential,0,0.0,,,0
+4,Financial District,transport,0,0.0,,,0
+4,Harlem,business,0,0.0,,,0
+4,Harlem,entertainment,0,0.0,,,0
+4,Harlem,residential,0,0.0,,,0
+4,Harlem,transport,0,0.0,,,0
+4,JFK Airport,business,0,0.0,,,0
+4,JFK Airport,entertainment,0,0.0,,,0
+4,JFK Airport,residential,0,0.0,,,0
+4,JFK Airport,transport,0,0.0,,,0
+4,LaGuardia Airport,business,0,0.0,,,0
+4,LaGuardia Airport,entertainment,0,0.0,,,0
+4,LaGuardia Airport,residential,0,0.0,,,0
+4,LaGuardia Airport,transport,0,0.0,,,0
+4,Midtown,business,0,0.0,,,0
+4,Midtown,entertainment,0,0.0,,,0
+4,Midtown,residential,0,0.0,,,0
+4,Midtown,transport,0,0.0,,,0
+4,Times Square,business,0,0.0,,,0
+4,Times Square,entertainment,0,0.0,,,0
+4,Times Square,residential,0,0.0,,,0
+4,Times Square,transport,0,0.0,,,0
+4,Upper East Side,business,0,0.0,,,0
+4,Upper East Side,entertainment,0,0.0,,,0
+4,Upper East Side,residential,0,0.0,,,0
+4,Upper East Side,transport,0,0.0,,,0
+4,Williamsburg,business,0,0.0,,,0
+4,Williamsburg,entertainment,0,0.0,,,0
+4,Williamsburg,residential,0,0.0,,,0
+4,Williamsburg,transport,0,0.0,,,0
+5,Brooklyn Heights,business,0,0.0,,,0
+5,Brooklyn Heights,entertainment,0,0.0,,,0
+5,Brooklyn Heights,residential,0,0.0,,,0
+5,Brooklyn Heights,transport,0,0.0,,,0
+5,Downtown Core,business,0,0.0,,,0
+5,Downtown Core,entertainment,0,0.0,,,0
+5,Downtown Core,residential,0,0.0,,,0
+5,Downtown Core,transport,0,0.0,,,0
+5,Financial District,business,0,0.0,,,0
+5,Financial District,entertainment,0,0.0,,,0
+5,Financial District,residential,0,0.0,,,0
+5,Financial District,transport,0,0.0,,,0
+5,Harlem,business,0,0.0,,,0
+5,Harlem,entertainment,0,0.0,,,0
+5,Harlem,residential,0,0.0,,,0
+5,Harlem,transport,0,0.0,,,0
+5,JFK Airport,business,0,0.0,,,0
+5,JFK Airport,entertainment,0,0.0,,,0
+5,JFK Airport,residential,0,0.0,,,0
+5,JFK Airport,transport,4926,163405.25,1.472797401542834,33.17199553390174,2175
+5,LaGuardia Airport,business,0,0.0,,,0
+5,LaGuardia Airport,entertainment,0,0.0,,,0
+5,LaGuardia Airport,residential,0,0.0,,,0
+5,LaGuardia Airport,transport,0,0.0,,,0
+5,Midtown,business,0,0.0,,,0
+5,Midtown,entertainment,0,0.0,,,0
+5,Midtown,residential,0,0.0,,,0
+5,Midtown,transport,0,0.0,,,0
+5,Times Square,business,0,0.0,,,0
+5,Times Square,entertainment,0,0.0,,,0
+5,Times Square,residential,0,0.0,,,0
+5,Times Square,transport,0,0.0,,,0
+5,Upper East Side,business,0,0.0,,,0
+5,Upper East Side,entertainment,0,0.0,,,0
+5,Upper East Side,residential,0,0.0,,,0
+5,Upper East Side,transport,0,0.0,,,0
+5,Williamsburg,business,0,0.0,,,0
+5,Williamsburg,entertainment,0,0.0,,,0
+5,Williamsburg,residential,0,0.0,,,0
+5,Williamsburg,transport,0,0.0,,,0
+6,Brooklyn Heights,business,0,0.0,,,0
+6,Brooklyn Heights,entertainment,0,0.0,,,0
+6,Brooklyn Heights,residential,0,0.0,,,0
+6,Brooklyn Heights,transport,0,0.0,,,0
+6,Downtown Core,business,0,0.0,,,0
+6,Downtown Core,entertainment,0,0.0,,,0
+6,Downtown Core,residential,0,0.0,,,0
+6,Downtown Core,transport,0,0.0,,,0
+6,Financial District,business,0,0.0,,,0
+6,Financial District,entertainment,0,0.0,,,0
+6,Financial District,residential,0,0.0,,,0
+6,Financial District,transport,0,0.0,,,0
+6,Harlem,business,0,0.0,,,0
+6,Harlem,entertainment,0,0.0,,,0
+6,Harlem,residential,0,0.0,,,0
+6,Harlem,transport,0,0.0,,,0
+6,JFK Airport,business,0,0.0,,,0
+6,JFK Airport,entertainment,0,0.0,,,0
+6,JFK Airport,residential,0,0.0,,,0
+6,JFK Airport,transport,0,0.0,,,0
+6,LaGuardia Airport,business,0,0.0,,,0
+6,LaGuardia Airport,entertainment,0,0.0,,,0
+6,LaGuardia Airport,residential,0,0.0,,,0
+6,LaGuardia Airport,transport,4993,164732.1,1.473530943320649,32.992609653514926,2159
+6,Midtown,business,0,0.0,,,0
+6,Midtown,entertainment,0,0.0,,,0
+6,Midtown,residential,0,0.0,,,0
+6,Midtown,transport,0,0.0,,,0
+6,Times Square,business,0,0.0,,,0
+6,Times Square,entertainment,0,0.0,,,0
+6,Times Square,residential,0,0.0,,,0
+6,Times Square,transport,0,0.0,,,0
+6,Upper East Side,business,0,0.0,,,0
+6,Upper East Side,entertainment,0,0.0,,,0
+6,Upper East Side,residential,0,0.0,,,0
+6,Upper East Side,transport,0,0.0,,,0
+6,Williamsburg,business,0,0.0,,,0
+6,Williamsburg,entertainment,0,0.0,,,0
+6,Williamsburg,residential,0,0.0,,,0
+6,Williamsburg,transport,0,0.0,,,0
+7,Brooklyn Heights,business,0,0.0,,,0
+7,Brooklyn Heights,entertainment,0,0.0,,,0
+7,Brooklyn Heights,residential,0,0.0,,,0
+7,Brooklyn Heights,transport,0,0.0,,,0
+7,Downtown Core,business,0,0.0,,,0
+7,Downtown Core,entertainment,0,0.0,,,0
+7,Downtown Core,residential,0,0.0,,,0
+7,Downtown Core,transport,0,0.0,,,0
+7,Financial District,business,0,0.0,,,0
+7,Financial District,entertainment,0,0.0,,,0
+7,Financial District,residential,0,0.0,,,0
+7,Financial District,transport,0,0.0,,,0
+7,Harlem,business,0,0.0,,,0
+7,Harlem,entertainment,0,0.0,,,0
+7,Harlem,residential,0,0.0,,,0
+7,Harlem,transport,0,0.0,,,0
+7,JFK Airport,business,0,0.0,,,0
+7,JFK Airport,entertainment,0,0.0,,,0
+7,JFK Airport,residential,0,0.0,,,0
+7,JFK Airport,transport,0,0.0,,,0
+7,LaGuardia Airport,business,0,0.0,,,0
+7,LaGuardia Airport,entertainment,0,0.0,,,0
+7,LaGuardia Airport,residential,0,0.0,,,0
+7,LaGuardia Airport,transport,0,0.0,,,0
+7,Midtown,business,0,0.0,,,0
+7,Midtown,entertainment,0,0.0,,,0
+7,Midtown,residential,0,0.0,,,0
+7,Midtown,transport,0,0.0,,,0
+7,Times Square,business,0,0.0,,,0
+7,Times Square,entertainment,0,0.0,,,0
+7,Times Square,residential,0,0.0,,,0
+7,Times Square,transport,0,0.0,,,0
+7,Upper East Side,business,0,0.0,,,0
+7,Upper East Side,entertainment,0,0.0,,,0
+7,Upper East Side,residential,0,0.0,,,0
+7,Upper East Side,transport,0,0.0,,,0
+7,Williamsburg,business,0,0.0,,,0
+7,Williamsburg,entertainment,5097,190583.56,1.6429742986070237,37.391320384539924,2380
+7,Williamsburg,residential,0,0.0,,,0
+7,Williamsburg,transport,0,0.0,,,0
+8,Brooklyn Heights,business,0,0.0,,,0
+8,Brooklyn Heights,entertainment,0,0.0,,,0
+8,Brooklyn Heights,residential,0,0.0,,,0
+8,Brooklyn Heights,transport,0,0.0,,,0
+8,Downtown Core,business,0,0.0,,,0
+8,Downtown Core,entertainment,0,0.0,,,0
+8,Downtown Core,residential,0,0.0,,,0
+8,Downtown Core,transport,0,0.0,,,0
+8,Financial District,business,0,0.0,,,0
+8,Financial District,entertainment,0,0.0,,,0
+8,Financial District,residential,0,0.0,,,0
+8,Financial District,transport,0,0.0,,,0
+8,Harlem,business,0,0.0,,,0
+8,Harlem,entertainment,0,0.0,,,0
+8,Harlem,residential,4886,133139.42,1.210814572247237,27.249164961113387,726
+8,Harlem,transport,0,0.0,,,0
+8,JFK Airport,business,0,0.0,,,0
+8,JFK Airport,entertainment,0,0.0,,,0
+8,JFK Airport,residential,0,0.0,,,0
+8,JFK Airport,transport,0,0.0,,,0
+8,LaGuardia Airport,business,0,0.0,,,0
+8,LaGuardia Airport,entertainment,0,0.0,,,0
+8,LaGuardia Airport,residential,0,0.0,,,0
+8,LaGuardia Airport,transport,0,0.0,,,0
+8,Midtown,business,0,0.0,,,0
+8,Midtown,entertainment,0,0.0,,,0
+8,Midtown,residential,0,0.0,,,0
+8,Midtown,transport,0,0.0,,,0
+8,Times Square,business,0,0.0,,,0
+8,Times Square,entertainment,0,0.0,,,0
+8,Times Square,residential,0,0.0,,,0
+8,Times Square,transport,0,0.0,,,0
+8,Upper East Side,business,0,0.0,,,0
+8,Upper East Side,entertainment,0,0.0,,,0
+8,Upper East Side,residential,0,0.0,,,0
+8,Upper East Side,transport,0,0.0,,,0
+8,Williamsburg,business,0,0.0,,,0
+8,Williamsburg,entertainment,0,0.0,,,0
+8,Williamsburg,residential,0,0.0,,,0
+8,Williamsburg,transport,0,0.0,,,0
+9,Brooklyn Heights,business,0,0.0,,,0
+9,Brooklyn Heights,entertainment,0,0.0,,,0
+9,Brooklyn Heights,residential,0,0.0,,,0
+9,Brooklyn Heights,transport,0,0.0,,,0
+9,Downtown Core,business,0,0.0,,,0
+9,Downtown Core,entertainment,0,0.0,,,0
+9,Downtown Core,residential,0,0.0,,,0
+9,Downtown Core,transport,0,0.0,,,0
+9,Financial District,business,5035,179818.98,1.5843634558093347,35.71379940417081,2132
+9,Financial District,entertainment,0,0.0,,,0
+9,Financial District,residential,0,0.0,,,0
+9,Financial District,transport,0,0.0,,,0
+9,Harlem,business,0,0.0,,,0
+9,Harlem,entertainment,0,0.0,,,0
+9,Harlem,residential,0,0.0,,,0
+9,Harlem,transport,0,0.0,,,0
+9,JFK Airport,business,0,0.0,,,0
+9,JFK Airport,entertainment,0,0.0,,,0
+9,JFK Airport,residential,0,0.0,,,0
+9,JFK Airport,transport,0,0.0,,,0
+9,LaGuardia Airport,business,0,0.0,,,0
+9,LaGuardia Airport,entertainment,0,0.0,,,0
+9,LaGuardia Airport,residential,0,0.0,,,0
+9,LaGuardia Airport,transport,0,0.0,,,0
+9,Midtown,business,0,0.0,,,0
+9,Midtown,entertainment,0,0.0,,,0
+9,Midtown,residential,0,0.0,,,0
+9,Midtown,transport,0,0.0,,,0
+9,Times Square,business,0,0.0,,,0
+9,Times Square,entertainment,0,0.0,,,0
+9,Times Square,residential,0,0.0,,,0
+9,Times Square,transport,0,0.0,,,0
+9,Upper East Side,business,0,0.0,,,0
+9,Upper East Side,entertainment,0,0.0,,,0
+9,Upper East Side,residential,0,0.0,,,0
+9,Upper East Side,transport,0,0.0,,,0
+9,Williamsburg,business,0,0.0,,,0
+9,Williamsburg,entertainment,0,0.0,,,0
+9,Williamsburg,residential,0,0.0,,,0
+9,Williamsburg,transport,0,0.0,,,0
+10,Brooklyn Heights,business,0,0.0,,,0
+10,Brooklyn Heights,entertainment,0,0.0,,,0
+10,Brooklyn Heights,residential,0,0.0,,,0
+10,Brooklyn Heights,transport,0,0.0,,,0
+10,Downtown Core,business,0,0.0,,,0
+10,Downtown Core,entertainment,0,0.0,,,0
+10,Downtown Core,residential,0,0.0,,,0
+10,Downtown Core,transport,0,0.0,,,0
+10,Financial District,business,0,0.0,,,0
+10,Financial District,entertainment,0,0.0,,,0
+10,Financial District,residential,0,0.0,,,0
+10,Financial District,transport,0,0.0,,,0
+10,Harlem,business,0,0.0,,,0
+10,Harlem,entertainment,0,0.0,,,0
+10,Harlem,residential,0,0.0,,,0
+10,Harlem,transport,0,0.0,,,0
+10,JFK Airport,business,0,0.0,,,0
+10,JFK Airport,entertainment,0,0.0,,,0
+10,JFK Airport,residential,0,0.0,,,0
+10,JFK Airport,transport,0,0.0,,,0
+10,LaGuardia Airport,business,0,0.0,,,0
+10,LaGuardia Airport,entertainment,0,0.0,,,0
+10,LaGuardia Airport,residential,0,0.0,,,0
+10,LaGuardia Airport,transport,0,0.0,,,0
+10,Midtown,business,0,0.0,,,0
+10,Midtown,entertainment,0,0.0,,,0
+10,Midtown,residential,0,0.0,,,0
+10,Midtown,transport,0,0.0,,,0
+10,Times Square,business,0,0.0,,,0
+10,Times Square,entertainment,4977,185237.78,1.6388667872212177,37.21876230661041,2288
+10,Times Square,residential,0,0.0,,,0
+10,Times Square,transport,0,0.0,,,0
+10,Upper East Side,business,0,0.0,,,0
+10,Upper East Side,entertainment,0,0.0,,,0
+10,Upper East Side,residential,0,0.0,,,0
+10,Upper East Side,transport,0,0.0,,,0
+10,Williamsburg,business,0,0.0,,,0
+10,Williamsburg,entertainment,0,0.0,,,0
+10,Williamsburg,residential,0,0.0,,,0
+10,Williamsburg,transport,0,0.0,,,0
