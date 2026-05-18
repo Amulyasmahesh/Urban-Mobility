@@ -114,6 +114,7 @@ python notebooks/02_ml_pipeline.py
 - **Dashboard 2:** City surge heatmap — zone × hour surge intensity
 - **Dashboard 3:** Time intelligence — 7-day trend, rush vs off-peak
 - **Dashboard 4:** ML insights — fare prediction scatter, zone cluster map
+- https://public.tableau.com/authoring/urbanmobility/UrbanGuardRideShareSurgeAnalyzer#1(tableau dashboard link).
 
 ---
 
