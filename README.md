@@ -1,11 +1,11 @@
-# 🚗 UrbanGuard — Ride-Share Surge Pricing Analyzer
+# UrbanGuard — Ride-Share Surge Pricing Analyzer
 
 > End-to-end data analytics project covering Pandas, SQL, Machine Learning,
 > and Tableau — built around a real-world urban mobility problem.
 
 ---
 
-## 🎯 Problem Statement
+##  Problem Statement
 
 Ride-share companies lose drivers during peak demand and overcharge riders
 during low-demand windows. This project builds a full analytics pipeline to:
@@ -16,7 +16,7 @@ during low-demand windows. This project builds a full analytics pipeline to:
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 
 ```
 urban_mobility/
@@ -118,14 +118,14 @@ python notebooks/02_ml_pipeline.py
 
 ---
 
-## 📌 Skills Demonstrated
+## Skills Demonstrated
 
-- ✅ Data generation & realistic synthetic modelling
-- ✅ Pandas: cleaning, type casting, groupby, pivot tables, feature engineering
-- ✅ SQL: aggregations, CTEs, window functions (RANK, moving average)
-- ✅ ML: binary classification, regression, unsupervised clustering, model evaluation
-- ✅ Tableau: multi-dashboard design, calculated fields, map visualisation, interactivity
-- ✅ End-to-end storytelling: problem → data → insight → decision
+- Data generation & realistic synthetic modelling
+- Pandas: cleaning, type casting, groupby, pivot tables, feature engineering
+- SQL: aggregations, CTEs, window functions (RANK, moving average)
+- ML: binary classification, regression, unsupervised clustering, model evaluation
+- Tableau: multi-dashboard design, calculated fields, map visualisation, interactivity
+- End-to-end storytelling: problem → data → insight → decision
 
 ---
 
