@@ -86,7 +86,7 @@ python notebooks/02_ml_pipeline.py
 
 ---
 
-## 📊 Key Results
+## Key Results
 
 | Model                  | Metric        | Score   |
 |------------------------|---------------|---------|
@@ -108,7 +108,7 @@ python notebooks/02_ml_pipeline.py
 
 ---
 
-## 🗺️ Tableau Dashboard Previews
+## Tableau Dashboard Previews
 
 - **Dashboard 1:** Executive KPI overview — total trips, revenue, avg surge
 - **Dashboard 2:** City surge heatmap — zone × hour surge intensity
